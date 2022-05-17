@@ -14,7 +14,7 @@ ____
 
 - 🔺 ʜᴏᴡ ᴛᴏ ꜰᴏʀᴋ ᴛʜɪꜱ ʀᴇᴘᴏ 🔻.
 
-<p><a href="https://github.com/heshan2/heroku-xray-server"> <img src="https://telegra.ph/file/96c2318cee74da32eb15a.jpg" /></a></p>
+<p><a href="https://github.com/oodxe/heshan2/heroku-xray-server"> <img src="https://telegra.ph/file/96c2318cee74da32eb15a.jpg" /></a></p>
 Click on fork and star buttons like this image☝️.
 
 ___
@@ -25,7 +25,7 @@ ___
    - [ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ] ʙᴜᴛᴛᴏɴ👇👇
 
 
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/v2rayt/heshan2/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/oodxe/heshan2/heroku-xray-server"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 ⭕ ᴄʜᴏᴏꜱᴇ ᴛʜᴇ ʀᴇɢɪᴏɴ ᴛʜᴀᴛ ᴡᴏʀᴋꜱ ʙᴇꜱᴛ ꜰᴏʀ ʏᴏᴜ.
    - 🔺ʀᴇᴍᴇᴍʙᴇʀ,
